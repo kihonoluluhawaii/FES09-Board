@@ -17,6 +17,8 @@
     "react-csspin": "^0.0.1",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.2",
+    "react-infinite-scroll": "^0.1.5",
+    "react-infinite-scroller": "^1.2.6",
     "react-router-dom": "^6.22.3",
     "recoil": "^0.7.7",
     "recoil-persist": "^5.1.0",
